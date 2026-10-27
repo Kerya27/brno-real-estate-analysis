@@ -1,0 +1,309 @@
+uzemi_typ,kod_ruian,nazev,velikost_bytu,median_kc_m2_mesic,zmena_rok_pct,obdobi
+katastralni_uzemi,612065,Horní Heršpice,1+kk / 1+1,415,10.1,2026-08
+katastralni_uzemi,612065,Horní Heršpice,2+kk / 2+1,338,12.3,2026-08
+katastralni_uzemi,612065,Horní Heršpice,3+kk / 3+1,278,8.2,2026-08
+katastralni_uzemi,612065,Horní Heršpice,4 a více,279,22.4,2026-08
+katastralni_uzemi,611026,Komárov,1+kk / 1+1,397,18.5,2026-08
+katastralni_uzemi,611026,Komárov,2+kk / 2+1,325,18.6,2026-08
+katastralni_uzemi,611026,Komárov,3+kk / 3+1,295,20.4,2026-08
+katastralni_uzemi,611026,Komárov,4 a více,287,15.7,2026-08
+katastralni_uzemi,612227,Brněnské Ivanovice,1+kk / 1+1,390,8.6,2026-08
+katastralni_uzemi,612227,Brněnské Ivanovice,2+kk / 2+1,325,10.2,2026-08
+katastralni_uzemi,612227,Brněnské Ivanovice,3+kk / 3+1,270,7.1,2026-08
+katastralni_uzemi,612227,Brněnské Ivanovice,4 a více,255,14.3,2026-08
+katastralni_uzemi,611565,Sadová,1+kk / 1+1,341,7.2,2026-08
+katastralni_uzemi,611565,Sadová,2+kk / 2+1,319,4.9,2026-08
+katastralni_uzemi,611565,Sadová,3+kk / 3+1,294,5.4,2026-08
+katastralni_uzemi,611565,Sadová,4 a více,260,4.0,2026-08
+katastralni_uzemi,610950,Trnitá,1+kk / 1+1,416,12.7,2026-08
+katastralni_uzemi,610950,Trnitá,2+kk / 2+1,317,10.1,2026-08
+katastralni_uzemi,610950,Trnitá,3+kk / 3+1,250,9.2,2026-08
+katastralni_uzemi,610950,Trnitá,4 a více,233,8.4,2026-08
+katastralni_uzemi,610003,Město Brno,1+kk / 1+1,405,6.3,2026-08
+katastralni_uzemi,610003,Město Brno,2+kk / 2+1,317,5.7,2026-08
+katastralni_uzemi,610003,Město Brno,3+kk / 3+1,263,4.8,2026-08
+katastralni_uzemi,610003,Město Brno,4 a více,238,4.4,2026-08
+katastralni_uzemi,610208,Pisárky,1+kk / 1+1,401,0.2,2026-08
+katastralni_uzemi,610208,Pisárky,2+kk / 2+1,314,9.4,2026-08
+katastralni_uzemi,610208,Pisárky,3+kk / 3+1,286,12.6,2026-08
+katastralni_uzemi,610208,Pisárky,4 a více,247,7.4,2026-08
+katastralni_uzemi,612111,Dolní Heršpice,1+kk / 1+1,382,7.9,2026-08
+katastralni_uzemi,612111,Dolní Heršpice,2+kk / 2+1,312,5.1,2026-08
+katastralni_uzemi,612111,Dolní Heršpice,3+kk / 3+1,281,7.3,2026-08
+katastralni_uzemi,612111,Dolní Heršpice,4 a více,259,20.5,2026-08
+katastralni_uzemi,612243,Holásky,1+kk / 1+1,373,7.2,2026-08
+katastralni_uzemi,612243,Holásky,2+kk / 2+1,311,9.1,2026-08
+katastralni_uzemi,612243,Holásky,3+kk / 3+1,260,9.2,2026-08
+katastralni_uzemi,612243,Holásky,4 a více,233,9.9,2026-08
+katastralni_uzemi,610330,Stránice,1+kk / 1+1,363,8.4,2026-08
+katastralni_uzemi,610330,Stránice,2+kk / 2+1,310,7.6,2026-08
+katastralni_uzemi,610330,Stránice,3+kk / 3+1,273,9.6,2026-08
+katastralni_uzemi,610330,Stránice,4 a více,252,5.0,2026-08
+katastralni_uzemi,610372,Veveří,1+kk / 1+1,395,10.6,2026-08
+katastralni_uzemi,610372,Veveří,2+kk / 2+1,310,8.4,2026-08
+katastralni_uzemi,610372,Veveří,3+kk / 3+1,265,9.5,2026-08
+katastralni_uzemi,610372,Veveří,4 a více,246,8.8,2026-08
+katastralni_uzemi,611379,Ponava,1+kk / 1+1,372,7.8,2026-08
+katastralni_uzemi,611379,Ponava,2+kk / 2+1,309,8.0,2026-08
+katastralni_uzemi,611379,Ponava,3+kk / 3+1,277,9.5,2026-08
+katastralni_uzemi,611379,Ponava,4 a více,245,10.9,2026-08
+katastralni_uzemi,610089,Staré Brno,1+kk / 1+1,415,6.7,2026-08
+katastralni_uzemi,610089,Staré Brno,2+kk / 2+1,308,8.5,2026-08
+katastralni_uzemi,610089,Staré Brno,3+kk / 3+1,275,9.1,2026-08
+katastralni_uzemi,610089,Staré Brno,4 a více,255,9.0,2026-08
+katastralni_uzemi,658201,Jehnice,1+kk / 1+1,353,9.0,2026-08
+katastralni_uzemi,658201,Jehnice,2+kk / 2+1,306,6.6,2026-08
+katastralni_uzemi,658201,Jehnice,3+kk / 3+1,256,8.0,2026-08
+katastralni_uzemi,658201,Jehnice,4 a více,230,6.0,2026-08
+katastralni_uzemi,610186,Štýřice,1+kk / 1+1,360,6.5,2026-08
+katastralni_uzemi,610186,Štýřice,2+kk / 2+1,305,10.1,2026-08
+katastralni_uzemi,610186,Štýřice,3+kk / 3+1,260,6.6,2026-08
+katastralni_uzemi,610186,Štýřice,4 a více,252,9.6,2026-08
+katastralni_uzemi,612499,Maloměřice,1+kk / 1+1,371,7.5,2026-08
+katastralni_uzemi,612499,Maloměřice,2+kk / 2+1,305,9.3,2026-08
+katastralni_uzemi,612499,Maloměřice,3+kk / 3+1,272,14.3,2026-08
+katastralni_uzemi,612499,Maloměřice,4 a více,238,9.2,2026-08
+katastralni_uzemi,655856,Ivanovice,1+kk / 1+1,362,10.0,2026-08
+katastralni_uzemi,655856,Ivanovice,2+kk / 2+1,302,8.2,2026-08
+katastralni_uzemi,655856,Ivanovice,3+kk / 3+1,251,5.9,2026-08
+katastralni_uzemi,655856,Ivanovice,4 a více,230,5.5,2026-08
+katastralni_uzemi,611263,Černovice,1+kk / 1+1,374,11.3,2026-08
+katastralni_uzemi,611263,Černovice,2+kk / 2+1,302,9.8,2026-08
+katastralni_uzemi,611263,Černovice,3+kk / 3+1,259,7.5,2026-08
+katastralni_uzemi,611263,Černovice,4 a více,267,9.0,2026-08
+katastralni_uzemi,610704,Zábrdovice,1+kk / 1+1,386,8.7,2026-08
+katastralni_uzemi,610704,Zábrdovice,2+kk / 2+1,302,11.0,2026-08
+katastralni_uzemi,610704,Zábrdovice,3+kk / 3+1,251,8.7,2026-08
+katastralni_uzemi,610704,Zábrdovice,4 a více,225,5.1,2026-08
+katastralni_uzemi,612286,Slatina,1+kk / 1+1,355,9.2,2026-08
+katastralni_uzemi,612286,Slatina,2+kk / 2+1,301,8.7,2026-08
+katastralni_uzemi,612286,Slatina,3+kk / 3+1,271,12.9,2026-08
+katastralni_uzemi,612286,Slatina,4 a více,227,7.1,2026-08
+katastralni_uzemi,612171,Tuřany,1+kk / 1+1,378,10.2,2026-08
+katastralni_uzemi,612171,Tuřany,2+kk / 2+1,299,7.6,2026-08
+katastralni_uzemi,612171,Tuřany,3+kk / 3+1,271,11.1,2026-08
+katastralni_uzemi,612171,Tuřany,4 a více,223,6.7,2026-08
+katastralni_uzemi,654132,Chrlice,1+kk / 1+1,404,7.4,2026-08
+katastralni_uzemi,654132,Chrlice,2+kk / 2+1,299,7.2,2026-08
+katastralni_uzemi,654132,Chrlice,3+kk / 3+1,246,7.0,2026-08
+katastralni_uzemi,654132,Chrlice,4 a více,226,8.1,2026-08
+katastralni_uzemi,612006,Bohunice,1+kk / 1+1,341,7.9,2026-08
+katastralni_uzemi,612006,Bohunice,2+kk / 2+1,298,6.0,2026-08
+katastralni_uzemi,612006,Bohunice,3+kk / 3+1,266,9.0,2026-08
+katastralni_uzemi,612006,Bohunice,4 a více,236,5.4,2026-08
+katastralni_uzemi,611484,Královo Pole,1+kk / 1+1,359,7.5,2026-08
+katastralni_uzemi,611484,Královo Pole,2+kk / 2+1,296,8.0,2026-08
+katastralni_uzemi,611484,Královo Pole,3+kk / 3+1,263,10.5,2026-08
+katastralni_uzemi,611484,Královo Pole,4 a více,240,12.7,2026-08
+katastralni_uzemi,611905,Kníničky,1+kk / 1+1,363,7.4,2026-08
+katastralni_uzemi,611905,Kníničky,2+kk / 2+1,294,8.1,2026-08
+katastralni_uzemi,611905,Kníničky,3+kk / 3+1,250,5.9,2026-08
+katastralni_uzemi,611905,Kníničky,4 a více,240,3.4,2026-08
+katastralni_uzemi,610771,Černá Pole,1+kk / 1+1,378,8.0,2026-08
+katastralni_uzemi,610771,Černá Pole,2+kk / 2+1,294,9.3,2026-08
+katastralni_uzemi,610771,Černá Pole,3+kk / 3+1,247,7.4,2026-08
+katastralni_uzemi,610771,Černá Pole,4 a více,230,10.0,2026-08
+katastralni_uzemi,611743,Medlánky,1+kk / 1+1,343,6.5,2026-08
+katastralni_uzemi,611743,Medlánky,2+kk / 2+1,294,9.3,2026-08
+katastralni_uzemi,611743,Medlánky,3+kk / 3+1,259,8.4,2026-08
+katastralni_uzemi,611743,Medlánky,4 a více,240,12.7,2026-08
+katastralni_uzemi,610844,Husovice,1+kk / 1+1,351,7.7,2026-08
+katastralni_uzemi,610844,Husovice,2+kk / 2+1,293,8.5,2026-08
+katastralni_uzemi,610844,Husovice,3+kk / 3+1,265,10.0,2026-08
+katastralni_uzemi,610844,Husovice,4 a více,246,11.3,2026-08
+katastralni_uzemi,795674,Žebětín,1+kk / 1+1,354,7.3,2026-08
+katastralni_uzemi,795674,Žebětín,2+kk / 2+1,292,8.6,2026-08
+katastralni_uzemi,795674,Žebětín,3+kk / 3+1,261,11.1,2026-08
+katastralni_uzemi,795674,Žebětín,4 a více,270,16.9,2026-08
+katastralni_uzemi,612405,Líšeň,1+kk / 1+1,341,10.0,2026-08
+katastralni_uzemi,612405,Líšeň,2+kk / 2+1,291,7.8,2026-08
+katastralni_uzemi,612405,Líšeň,3+kk / 3+1,261,10.6,2026-08
+katastralni_uzemi,612405,Líšeň,4 a více,244,8.9,2026-08
+katastralni_uzemi,712680,Ořešín,1+kk / 1+1,333,8.1,2026-08
+katastralni_uzemi,712680,Ořešín,2+kk / 2+1,291,5.8,2026-08
+katastralni_uzemi,712680,Ořešín,3+kk / 3+1,250,12.1,2026-08
+katastralni_uzemi,712680,Ořešín,4 a více,233,6.9,2026-08
+katastralni_uzemi,610470,Žabovřesky,1+kk / 1+1,358,10.2,2026-08
+katastralni_uzemi,610470,Žabovřesky,2+kk / 2+1,289,8.6,2026-08
+katastralni_uzemi,610470,Žabovřesky,3+kk / 3+1,260,9.2,2026-08
+katastralni_uzemi,610470,Žabovřesky,4 a více,247,10.8,2026-08
+katastralni_uzemi,612014,Starý Lískovec,1+kk / 1+1,348,8.4,2026-08
+katastralni_uzemi,612014,Starý Lískovec,2+kk / 2+1,289,7.0,2026-08
+katastralni_uzemi,612014,Starý Lískovec,3+kk / 3+1,255,9.0,2026-08
+katastralni_uzemi,612014,Starý Lískovec,4 a více,238,8.2,2026-08
+katastralni_uzemi,610585,Komín,1+kk / 1+1,348,8.4,2026-08
+katastralni_uzemi,610585,Komín,2+kk / 2+1,287,11.7,2026-08
+katastralni_uzemi,610585,Komín,3+kk / 3+1,269,7.6,2026-08
+katastralni_uzemi,610585,Komín,4 a více,259,14.1,2026-08
+katastralni_uzemi,633895,Dvorska,1+kk / 1+1,332,6.4,2026-08
+katastralni_uzemi,633895,Dvorska,2+kk / 2+1,286,5.9,2026-08
+katastralni_uzemi,633895,Dvorska,3+kk / 3+1,256,13.8,2026-08
+katastralni_uzemi,633895,Dvorska,4 a více,217,6.9,2026-08
+katastralni_uzemi,610283,Nový Lískovec,1+kk / 1+1,354,16.1,2026-08
+katastralni_uzemi,610283,Nový Lískovec,2+kk / 2+1,285,7.5,2026-08
+katastralni_uzemi,610283,Nový Lískovec,3+kk / 3+1,253,9.5,2026-08
+katastralni_uzemi,610283,Nový Lískovec,4 a více,246,13.9,2026-08
+katastralni_uzemi,611115,Židenice,1+kk / 1+1,344,8.9,2026-08
+katastralni_uzemi,611115,Židenice,2+kk / 2+1,283,6.4,2026-08
+katastralni_uzemi,611115,Židenice,3+kk / 3+1,249,6.4,2026-08
+katastralni_uzemi,611115,Židenice,4 a více,231,8.5,2026-08
+katastralni_uzemi,611778,Bystrc,1+kk / 1+1,331,7.5,2026-08
+katastralni_uzemi,611778,Bystrc,2+kk / 2+1,283,8.4,2026-08
+katastralni_uzemi,611778,Bystrc,3+kk / 3+1,248,6.9,2026-08
+katastralni_uzemi,611778,Bystrc,4 a více,235,5.4,2026-08
+katastralni_uzemi,612146,Přízřenice,1+kk / 1+1,375,6.2,2026-08
+katastralni_uzemi,612146,Přízřenice,2+kk / 2+1,282,8.0,2026-08
+katastralni_uzemi,612146,Přízřenice,3+kk / 3+1,264,7.3,2026-08
+katastralni_uzemi,612146,Přízřenice,4 a více,235,10.3,2026-08
+katastralni_uzemi,751910,Soběšice,1+kk / 1+1,324,7.6,2026-08
+katastralni_uzemi,751910,Soběšice,2+kk / 2+1,280,12.9,2026-08
+katastralni_uzemi,751910,Soběšice,3+kk / 3+1,259,11.2,2026-08
+katastralni_uzemi,751910,Soběšice,4 a více,246,6.5,2026-08
+katastralni_uzemi,611701,Mokrá Hora,1+kk / 1+1,345,10.2,2026-08
+katastralni_uzemi,611701,Mokrá Hora,2+kk / 2+1,279,6.9,2026-08
+katastralni_uzemi,611701,Mokrá Hora,3+kk / 3+1,250,7.3,2026-08
+katastralni_uzemi,611701,Mokrá Hora,4 a více,230,5.0,2026-08
+katastralni_uzemi,610887,Lesná,1+kk / 1+1,351,7.0,2026-08
+katastralni_uzemi,610887,Lesná,2+kk / 2+1,279,6.9,2026-08
+katastralni_uzemi,610887,Lesná,3+kk / 3+1,265,10.4,2026-08
+katastralni_uzemi,610887,Lesná,4 a více,256,6.7,2026-08
+katastralni_uzemi,610542,Jundrov,1+kk / 1+1,349,6.1,2026-08
+katastralni_uzemi,610542,Jundrov,2+kk / 2+1,279,6.5,2026-08
+katastralni_uzemi,610542,Jundrov,3+kk / 3+1,250,13.1,2026-08
+katastralni_uzemi,610542,Jundrov,4 a více,223,-0.9,2026-08
+katastralni_uzemi,611646,Řečkovice,1+kk / 1+1,355,11.3,2026-08
+katastralni_uzemi,611646,Řečkovice,2+kk / 2+1,276,8.2,2026-08
+katastralni_uzemi,611646,Řečkovice,3+kk / 3+1,254,8.1,2026-08
+katastralni_uzemi,611646,Řečkovice,4 a více,234,7.3,2026-08
+katastralni_uzemi,612553,Obřany,1+kk / 1+1,355,6.6,2026-08
+katastralni_uzemi,612553,Obřany,2+kk / 2+1,273,5.4,2026-08
+katastralni_uzemi,612553,Obřany,3+kk / 3+1,254,17.1,2026-08
+katastralni_uzemi,612553,Obřany,4 a více,237,3.5,2026-08
+katastralni_uzemi,608505,Bosonohy,1+kk / 1+1,378,8.6,2026-08
+katastralni_uzemi,608505,Bosonohy,2+kk / 2+1,270,8.0,2026-08
+katastralni_uzemi,608505,Bosonohy,3+kk / 3+1,250,12.1,2026-08
+katastralni_uzemi,608505,Bosonohy,4 a více,215,3.9,2026-08
+katastralni_uzemi,610313,Kohoutovice,1+kk / 1+1,346,10.2,2026-08
+katastralni_uzemi,610313,Kohoutovice,2+kk / 2+1,270,5.5,2026-08
+katastralni_uzemi,610313,Kohoutovice,3+kk / 3+1,247,7.9,2026-08
+katastralni_uzemi,610313,Kohoutovice,4 a více,218,4.8,2026-08
+katastralni_uzemi,775550,Útěchov u Brna,1+kk / 1+1,311,4.4,2026-08
+katastralni_uzemi,775550,Útěchov u Brna,2+kk / 2+1,239,7.2,2026-08
+katastralni_uzemi,775550,Útěchov u Brna,3+kk / 3+1,234,8.3,2026-08
+katastralni_uzemi,775550,Útěchov u Brna,4 a více,225,10.3,2026-08
+mestska_cast,551074,Brno-jih,1+kk / 1+1,390,10.2,2026-08
+mestska_cast,551074,Brno-jih,2+kk / 2+1,318,11.2,2026-08
+mestska_cast,551074,Brno-jih,3+kk / 3+1,280,11.1,2026-08
+mestska_cast,551074,Brno-jih,4 a více,269,21.2,2026-08
+mestska_cast,550973,Brno-střed,1+kk / 1+1,401,8.7,2026-08
+mestska_cast,550973,Brno-střed,2+kk / 2+1,310,8.0,2026-08
+mestska_cast,550973,Brno-střed,3+kk / 3+1,265,6.4,2026-08
+mestska_cast,550973,Brno-střed,4 a více,247,7.4,2026-08
+mestska_cast,551007,Brno-Královo Pole,1+kk / 1+1,359,7.5,2026-08
+mestska_cast,551007,Brno-Královo Pole,2+kk / 2+1,309,8.0,2026-08
+mestska_cast,551007,Brno-Královo Pole,3+kk / 3+1,277,9.5,2026-08
+mestska_cast,551007,Brno-Královo Pole,4 a více,245,10.9,2026-08
+mestska_cast,551406,Brno-Jehnice,1+kk / 1+1,353,9.0,2026-08
+mestska_cast,551406,Brno-Jehnice,2+kk / 2+1,306,6.6,2026-08
+mestska_cast,551406,Brno-Jehnice,3+kk / 3+1,256,8.0,2026-08
+mestska_cast,551406,Brno-Jehnice,4 a více,230,6.0,2026-08
+mestska_cast,551309,Brno-Tuřany,1+kk / 1+1,376,8.7,2026-08
+mestska_cast,551309,Brno-Tuřany,2+kk / 2+1,305,8.2,2026-08
+mestska_cast,551309,Brno-Tuřany,3+kk / 3+1,265,10.0,2026-08
+mestska_cast,551309,Brno-Tuřany,4 a více,228,8.6,2026-08
+mestska_cast,551066,Brno-Černovice,1+kk / 1+1,374,11.3,2026-08
+mestska_cast,551066,Brno-Černovice,2+kk / 2+1,302,9.8,2026-08
+mestska_cast,551066,Brno-Černovice,3+kk / 3+1,259,7.5,2026-08
+mestska_cast,551066,Brno-Černovice,4 a více,267,9.0,2026-08
+mestska_cast,551376,Brno-Ivanovice,1+kk / 1+1,362,10.0,2026-08
+mestska_cast,551376,Brno-Ivanovice,2+kk / 2+1,302,8.2,2026-08
+mestska_cast,551376,Brno-Ivanovice,3+kk / 3+1,251,5.9,2026-08
+mestska_cast,551376,Brno-Ivanovice,4 a více,230,5.5,2026-08
+mestska_cast,551295,Brno-Slatina,1+kk / 1+1,355,9.2,2026-08
+mestska_cast,551295,Brno-Slatina,2+kk / 2+1,301,8.7,2026-08
+mestska_cast,551295,Brno-Slatina,3+kk / 3+1,271,12.9,2026-08
+mestska_cast,551295,Brno-Slatina,4 a více,227,7.1,2026-08
+mestska_cast,551317,Brno-Chrlice,1+kk / 1+1,404,7.4,2026-08
+mestska_cast,551317,Brno-Chrlice,2+kk / 2+1,299,7.2,2026-08
+mestska_cast,551317,Brno-Chrlice,3+kk / 3+1,246,7.0,2026-08
+mestska_cast,551317,Brno-Chrlice,4 a více,226,8.1,2026-08
+mestska_cast,551082,Brno-Bohunice,1+kk / 1+1,341,7.9,2026-08
+mestska_cast,551082,Brno-Bohunice,2+kk / 2+1,298,6.0,2026-08
+mestska_cast,551082,Brno-Bohunice,3+kk / 3+1,266,9.0,2026-08
+mestska_cast,551082,Brno-Bohunice,4 a více,236,5.4,2026-08
+mestska_cast,551236,Brno-Medlánky,1+kk / 1+1,343,6.5,2026-08
+mestska_cast,551236,Brno-Medlánky,2+kk / 2+1,294,9.3,2026-08
+mestska_cast,551236,Brno-Medlánky,3+kk / 3+1,259,8.4,2026-08
+mestska_cast,551236,Brno-Medlánky,4 a více,240,12.7,2026-08
+mestska_cast,551210,Brno-Kníničky,1+kk / 1+1,363,7.4,2026-08
+mestska_cast,551210,Brno-Kníničky,2+kk / 2+1,294,8.1,2026-08
+mestska_cast,551210,Brno-Kníničky,3+kk / 3+1,250,5.9,2026-08
+mestska_cast,551210,Brno-Kníničky,4 a více,240,3.4,2026-08
+mestska_cast,551031,Brno-sever,1+kk / 1+1,351,7.0,2026-08
+mestska_cast,551031,Brno-sever,2+kk / 2+1,293,8.9,2026-08
+mestska_cast,551031,Brno-sever,3+kk / 3+1,259,11.2,2026-08
+mestska_cast,551031,Brno-sever,4 a více,246,11.3,2026-08
+mestska_cast,551368,Brno-Žebětín,1+kk / 1+1,354,7.3,2026-08
+mestska_cast,551368,Brno-Žebětín,2+kk / 2+1,292,8.6,2026-08
+mestska_cast,551368,Brno-Žebětín,3+kk / 3+1,261,11.1,2026-08
+mestska_cast,551368,Brno-Žebětín,4 a více,270,16.9,2026-08
+mestska_cast,551422,Brno-Ořešín,1+kk / 1+1,333,8.1,2026-08
+mestska_cast,551422,Brno-Ořešín,2+kk / 2+1,291,5.8,2026-08
+mestska_cast,551422,Brno-Ořešín,3+kk / 3+1,250,12.1,2026-08
+mestska_cast,551422,Brno-Ořešín,4 a více,233,6.9,2026-08
+mestska_cast,551287,Brno-Líšeň,1+kk / 1+1,341,10.0,2026-08
+mestska_cast,551287,Brno-Líšeň,2+kk / 2+1,291,7.8,2026-08
+mestska_cast,551287,Brno-Líšeň,3+kk / 3+1,261,10.6,2026-08
+mestska_cast,551287,Brno-Líšeň,4 a více,244,8.9,2026-08
+mestska_cast,551091,Brno-Starý Lískovec,1+kk / 1+1,348,8.4,2026-08
+mestska_cast,551091,Brno-Starý Lískovec,2+kk / 2+1,289,7.0,2026-08
+mestska_cast,551091,Brno-Starý Lískovec,3+kk / 3+1,255,9.0,2026-08
+mestska_cast,551091,Brno-Starý Lískovec,4 a více,238,8.2,2026-08
+mestska_cast,550990,Brno-Žabovřesky,1+kk / 1+1,358,10.2,2026-08
+mestska_cast,550990,Brno-Žabovřesky,2+kk / 2+1,289,8.6,2026-08
+mestska_cast,550990,Brno-Žabovřesky,3+kk / 3+1,260,9.2,2026-08
+mestska_cast,550990,Brno-Žabovřesky,4 a více,247,10.8,2026-08
+mestska_cast,551252,Brno-Maloměřice a Obřany,1+kk / 1+1,363,7.1,2026-08
+mestska_cast,551252,Brno-Maloměřice a Obřany,2+kk / 2+1,289,7.4,2026-08
+mestska_cast,551252,Brno-Maloměřice a Obřany,3+kk / 3+1,263,15.4,2026-08
+mestska_cast,551252,Brno-Maloměřice a Obřany,4 a více,238,6.2,2026-08
+mestska_cast,551228,Brno-Komín,1+kk / 1+1,348,8.4,2026-08
+mestska_cast,551228,Brno-Komín,2+kk / 2+1,287,11.7,2026-08
+mestska_cast,551228,Brno-Komín,3+kk / 3+1,269,7.6,2026-08
+mestska_cast,551228,Brno-Komín,4 a více,259,14.1,2026-08
+mestska_cast,551112,Brno-Nový Lískovec,1+kk / 1+1,354,16.1,2026-08
+mestska_cast,551112,Brno-Nový Lískovec,2+kk / 2+1,285,7.5,2026-08
+mestska_cast,551112,Brno-Nový Lískovec,3+kk / 3+1,253,9.5,2026-08
+mestska_cast,551112,Brno-Nový Lískovec,4 a více,246,13.9,2026-08
+mestska_cast,551279,Brno-Vinohrady,1+kk / 1+1,344,8.9,2026-08
+mestska_cast,551279,Brno-Vinohrady,2+kk / 2+1,283,6.4,2026-08
+mestska_cast,551279,Brno-Vinohrady,3+kk / 3+1,249,6.4,2026-08
+mestska_cast,551279,Brno-Vinohrady,4 a více,231,8.5,2026-08
+mestska_cast,551198,Brno-Bystrc,1+kk / 1+1,331,7.5,2026-08
+mestska_cast,551198,Brno-Bystrc,2+kk / 2+1,283,8.4,2026-08
+mestska_cast,551198,Brno-Bystrc,3+kk / 3+1,248,6.9,2026-08
+mestska_cast,551198,Brno-Bystrc,4 a více,235,5.4,2026-08
+mestska_cast,551058,Brno-Židenice,1+kk / 1+1,344,8.9,2026-08
+mestska_cast,551058,Brno-Židenice,2+kk / 2+1,283,6.4,2026-08
+mestska_cast,551058,Brno-Židenice,3+kk / 3+1,249,6.4,2026-08
+mestska_cast,551058,Brno-Židenice,4 a více,231,8.5,2026-08
+mestska_cast,551171,Brno-Jundrov,1+kk / 1+1,349,6.1,2026-08
+mestska_cast,551171,Brno-Jundrov,2+kk / 2+1,279,6.5,2026-08
+mestska_cast,551171,Brno-Jundrov,3+kk / 3+1,250,13.1,2026-08
+mestska_cast,551171,Brno-Jundrov,4 a více,223,-0.9,2026-08
+mestska_cast,551244,Brno-Řečkovice a Mokrá Hora,1+kk / 1+1,350,10.8,2026-08
+mestska_cast,551244,Brno-Řečkovice a Mokrá Hora,2+kk / 2+1,278,7.8,2026-08
+mestska_cast,551244,Brno-Řečkovice a Mokrá Hora,3+kk / 3+1,252,7.7,2026-08
+mestska_cast,551244,Brno-Řečkovice a Mokrá Hora,4 a více,232,6.4,2026-08
+mestska_cast,551147,Brno-Kohoutovice,1+kk / 1+1,346,10.2,2026-08
+mestska_cast,551147,Brno-Kohoutovice,2+kk / 2+1,270,5.5,2026-08
+mestska_cast,551147,Brno-Kohoutovice,3+kk / 3+1,247,7.9,2026-08
+mestska_cast,551147,Brno-Kohoutovice,4 a více,218,4.8,2026-08
+mestska_cast,551325,Brno-Bosonohy,1+kk / 1+1,378,8.6,2026-08
+mestska_cast,551325,Brno-Bosonohy,2+kk / 2+1,270,8.0,2026-08
+mestska_cast,551325,Brno-Bosonohy,3+kk / 3+1,250,12.1,2026-08
+mestska_cast,551325,Brno-Bosonohy,4 a více,215,3.9,2026-08
+mestska_cast,551431,Brno-Útěchov,1+kk / 1+1,311,4.4,2026-08
+mestska_cast,551431,Brno-Útěchov,2+kk / 2+1,239,7.2,2026-08
+mestska_cast,551431,Brno-Útěchov,3+kk / 3+1,234,8.3,2026-08
+mestska_cast,551431,Brno-Útěchov,4 a více,225,10.3,2026-08
